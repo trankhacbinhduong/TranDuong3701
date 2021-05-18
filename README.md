@@ -8,3 +8,5 @@
 TranDuong3701/TranDuong3701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huannd0101&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huannd0101)](https://github.com/anuraghazra/github-readme-stats)
