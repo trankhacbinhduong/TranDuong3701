@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Nodejs, React, Docker, Git, ...**
 
-- 👯 I’m looking to collaborate on [HIT-CINEMA](https://github.com/TranDuong3701/HIT-CINEMA)
+<!-- - 👯 I’m looking to collaborate on [HIT-CINEMA](https://github.com/TranDuong3701/HIT-CINEMA) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/TranDuong3701](https://github.com/TranDuong3701)
 
